@@ -2,7 +2,7 @@
 ## About Me
 Hi, I'm Catherine! 👋 I'm an aspiring web developer currently enrolled in the CoGrammer 16-week bootcamp. I'm passionate about coding and excited to show my new skills!
 
-![Catherine]( 
+<img src="https://github.com/catherinevoysey/catherinevoysey/blob/main/me.jpg" alt="Image of Catherine" width="300" height="400">
 
 ## Skills
 Here are some of the skills I'm learning and improving upon during my bootcamp:
